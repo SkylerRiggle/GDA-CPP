@@ -9,23 +9,8 @@ Welcome to the repository for the Game Developers Association at the University 
 - **Final**: *The final result you will create if you follow the entirety of this workshop.*
 
 ## Compilation
-To make the process of compiling your first C++ program less painful, we've prepared a simple application that will handle this for you.
 
-To run this application, simply execute the following command:
-
-```command
-.\Compile.exe [OS_FLAG] [APP_NAME]
-```
-
-- OS_FLAG
-    - This flag is a number indicating what operating system you are using.
-    - 0 = Windows
-    - 1 = MacOS
-    - 2 = Linux
-- APP_NAME
-    - This is an optional paramter that specifies the name of the executable created by compiling your program.
-
-***NOTE**: This setup may not work for your other C++ projects, and is designed to work with this specific workshop / file structure.*
+TBD
 
 ## Credits
 
