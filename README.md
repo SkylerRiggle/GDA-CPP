@@ -20,8 +20,4 @@ TBD
 | Rachelle Phipps | Programmer | TBD |
 | Skyler Riggle | Programmer | Skyler.D.Riggle-1@ou.edu |
 
-- Cole Bacon - Game Designer - 
-- Rachelle Phipps - Programmer
-- Skyler Riggle - Programmer
-
 Also, a tremendous thank you to OU CSSB for helping host the first rendition of this event! Without their contributions, none of this would be possible! Thank you!
